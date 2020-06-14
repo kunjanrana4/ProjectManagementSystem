@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project Management System</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="role">Your Role</string>
+    <string-array name="roles">
+        <item>Employee</item>
+        <item>Manager</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
